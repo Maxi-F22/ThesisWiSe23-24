@@ -11,13 +11,13 @@ An der Klangwand befinden sich leuchtende Objekte, die durchgängig einen Ton ab
 Ein weiteres Hauptaugenmerk der Anwendung war das haptische Feedback, das bei den einzelnen Instrumenten unterschiedlich umgesetzt wurde. 
 Die Anwendung ist darauf ausgelegt, auf zwei Standalone VR-Headsets gespielt zu werden.
 
-Das Projekt im zweiten Ordner <i>MultiUserMusicVR</i> beinhaltet ein Template für das eigene Erstellen von Multiplayer-VR-Anwendungen für das lokale Netzwerk.
+Das Projekt im zweiten Ordner <i>Template</i> beinhaltet ein Template für das eigene Erstellen von Multiplayer-VR-Anwendungen für das lokale Netzwerk.
 Dabei handelt es sich um ein Projekt, in dem nur die nötigsten Komponenten für ein funktionierendes Netzwerkspiel enthalten sind.
 Zusätzlich wurde eine Beispielwelt mit einem Cube als Kollisionsobjekt und einer Sphere, um die Interaktion zu testen, eingefügt.
 
 
 ## Installation
-1. Öffne das Projekt in ihrem Unity-Launcher. 
+1. Öffne das Projekt im Unity-Launcher. 
 2. Stelle in den Build Settings auf die Plattform Android um.
 3. Passe die OpenXR Einstellungen in den Player Settings auf das jeweilige Endgerät an
 4. Passe in der C#-Datei "NetworkStartup" die IP-Adresse auf die des Hostgeräts an
