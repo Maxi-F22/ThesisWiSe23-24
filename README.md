@@ -17,12 +17,14 @@ Zusätzlich wurde eine Beispielwelt mit einem Cube als Kollisionsobjekt und eine
 
 
 ## Installation
-1. Öffne das Projekt im Unity-Launcher. 
-2. Stelle in den Build Settings auf die Plattform Android um.
-3. Passe die OpenXR Einstellungen in den Player Settings auf das jeweilige Endgerät an
-4. Passe in der C#-Datei "NetworkStartup" die IP-Adresse auf die des Hostgeräts an
-5. Builde das Android-APK und installiere es auf dem Headset
-6. In der Anwendung, wähle mit dem Hostgerät den Button "Host" aus und mit den Client-Geräten den Button "Client"
+1. Klone das Repository
+2. Öffne das Projekt im Unity-Launcher
+3. Öffne die Szene im Ordner "Scenes"
+4. Stelle in den Build Settings auf die Plattform Android um
+5. Passe die OpenXR Einstellungen in den Player Settings auf das jeweilige Endgerät an
+6. Passe in der C#-Datei "NetworkStartup" die IP-Adresse auf die des Hostgeräts an
+7. Builde das Android-APK und installiere es auf dem Headset
+8. In der Anwendung, wähle mit dem Hostgerät den Button "Host" aus und mit den Client-Geräten den Button "Client"
 
 
 ## Credits
